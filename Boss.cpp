@@ -3,6 +3,7 @@
 // ƒ{ƒX‚Ìˆ— [Boss.cpp]
 // AuthorF´–ì‘“ãÄ
 //
+// NOTE:—é–Ø“N‘¿
 //---------------------------------------
 #include "boss.h"
 #include "bullet.h"
